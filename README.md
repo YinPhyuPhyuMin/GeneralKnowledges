@@ -42,4 +42,7 @@
       1. focused tools designed for working with SQL databases.
       2. can execute stored procedure.
 
+# DC (Data Center) vs On-Premise Server
+  1. Data Center  - may be private data center or third party provider (Cloud)
+  2. On-Premise Server - local server that located withing the premises of organization.
       
